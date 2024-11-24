@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1732452955409" clover="3.2.0">
-  <project timestamp="1732452955410" name="All files">
+<coverage generated="1732453605707" clover="3.2.0">
+  <project timestamp="1732453605707" name="All files">
     <metrics statements="74" coveredstatements="67" conditionals="30" coveredconditionals="28" methods="11" coveredmethods="10" elements="115" coveredelements="105" complexity="0" loc="74" ncloc="74" packages="1" files="1" classes="1"/>
     <file name="fun.ts" path="C:\lesson_11\src\fun.ts">
       <metrics statements="74" coveredstatements="67" conditionals="30" coveredconditionals="28" methods="11" coveredmethods="10"/>
